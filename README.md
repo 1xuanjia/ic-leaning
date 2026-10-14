@@ -1,3 +1,3 @@
-# ic-leaning
+# ic-learning
 记录我学习集成电路相关知识的历程
 分支?
